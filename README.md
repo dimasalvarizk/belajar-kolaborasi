@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-GitHUb 1
+GitHUb 2
